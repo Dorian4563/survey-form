@@ -24,7 +24,7 @@ h1 {
 }
 
 body {
-  background-image: url(../asset/image/pic.png);
+  background-image: url("../asset/image/pic.png");
   text-align: left;
   background-repeat: no-repeat;
   background-size: cover;
@@ -62,4 +62,5 @@ textarea {
   width: 100%;
   padding: 10px;
 }
+
 
