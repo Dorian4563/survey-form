@@ -26,4 +26,4 @@ CSS
 to work with or modify this project you should be able to understand the basic of HTML and style.CSS such as tags and input as show in my work
 
 ## my link you can check and verify
-https://dorian4563.github.io/survey-form/
+- To see and clone this project run :  git clone git@github.com:Dorian4563/survey-form.git
