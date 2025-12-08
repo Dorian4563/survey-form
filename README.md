@@ -15,10 +15,10 @@ open the form with any browser of choice
 
 ## Built using
 
-html
-css
+HTML
+CSS
 * prerequisites
-to work with or modify this project you should be able to understand the basic of html and style.css such as tags and input as show in my work 
+to work with or modify this project you should be able to understand the basic of HTML and style.CSS such as tags and input as show in my work 
 
 ## my link you can check and verify
 https://dorian4563.github.io/survey-form/
