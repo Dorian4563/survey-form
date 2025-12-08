@@ -1,9 +1,14 @@
 # freecodecamp survey form
+
 preview
+
 (![alt text](asset/image/screenshot.png))
+
 ## about
+
 this project is  survey form of freecodecamp to help  improve the platform and help  us to to do changes in what you like and others thank
 ## usage
+
 open the form with any browser of choice
 - fill in the requirement field
 
